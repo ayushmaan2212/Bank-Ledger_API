@@ -82,6 +82,16 @@ POST /api/transactions
 - **Password Hashing** — Passwords secured with bcrypt
 - **Environment Variables** — Sensitive config stored in .env
 
+## Project Structure
+
+src/
+ ├── controllers
+ ├── routes
+ ├── models
+ ├── middlewares
+ ├── services
+ └── db
+
 ## Error Responses
 
 | Status | Meaning |

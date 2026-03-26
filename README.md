@@ -1,4 +1,4 @@
-# 🏦 Bank Transactions API
+# 🏦 Bank-Ledger API
 
 A RESTful Node.js backend for managing bank accounts and transactions with JWT authentication and ledger-based balance tracking.
 

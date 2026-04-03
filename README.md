@@ -29,6 +29,7 @@ Server runs at `http://localhost:3000`
 
 ## API Endpoints
 
+
 ### Auth
 | Method | Endpoint | Description |
 |--------|----------|-------------|
